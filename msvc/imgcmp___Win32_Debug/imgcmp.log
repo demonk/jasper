@@ -1,0 +1,9 @@
+﻿Build started 2013/3/14  13:51:37.
+     1>Project "E:\JPEG2000\useful\JPEG2000\jasper-1.900.1\jasper-1.900.1\src\msvc\imgcmp.vcxproj" on node 2 (clean target(s)).
+     1>_PrepareForClean:
+         Deleting file ".\imgcmp___Win32_Debug\imgcmp.lastbuildstate".
+     1>Done Building Project "E:\JPEG2000\useful\JPEG2000\jasper-1.900.1\jasper-1.900.1\src\msvc\imgcmp.vcxproj" (clean target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.08
